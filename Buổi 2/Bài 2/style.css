@@ -1,0 +1,11 @@
+.form-select1
+{
+    height: 40px;
+    width: 1000px;
+}
+.form-select2
+{
+    height: 40px;
+    width: 100px;
+    display: flex;
+}
